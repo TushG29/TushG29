@@ -5,7 +5,7 @@
 <h4 align='center'> Data Analyst | Undergraduate Researcher </h4>
 
 I love to solve problems with a diverse group and explore different fields of computer science, especially those involving Quantum Computing, Natural Language Processing, Data Science, and Artificial Intelligence. I am passionate about space exploration and stay updated with space-related news and advancements being made in this field. 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="270" />
 - 🌱 I’m currently learning **MySQL**
 
 - 📫 How to reach me **tushar.ntu.gupta@gmail.com**  
