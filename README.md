@@ -2,7 +2,7 @@
 <h3 align="center">A ethusiastic sophomore interested in quantum computing, data science and artificial intelligence. </h3>
 <img align="right" alt="Coding width="400" src="https://i.gifer.com/origin/ab/ab41765c1ad683157fd04a8449d66799.gif">
 
-<p align='center'> Data Analyst | Undergraduate Researcher </p>
+<h4 align='center'> Data Analyst | Undergraduate Researcher </h4>
 
 I love to solve problems with a diverse group and explore different fields of computer science, especially those involving Quantum Computing, Natural Language Processing, Data Science, and Artificial Intelligence. I am passionate about space exploration and stay updated with space-related news and advancements being made in this field. 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
