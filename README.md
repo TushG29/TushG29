@@ -22,7 +22,7 @@ I love to solve problems with a diverse group and explore different fields of co
 
 <img align="left" alt="GIF" src="https://www.8128.info/horntorus/HT-net_coloured.gif?raw=true" width="350" height="240" />
   
-  This is a <a href="https://www.horntorus.com/iindex.html">Horn Torus</a>. <b>π<sup>2</sup> </b>is the surface area of the horn torus when the two circles of its vertical cross section have unit diameter, meaning its tubing is of unit diameter. Thus leading us to the constant <b>π</b> which helps us understand our universe with greater clarity as it is a very useful fundamental quantity.   
+  This is a <a href="https://www.horntorus.com/iindex.html">Horn Torus</a>. The surface area of the horn torus is <b>π<sup>2</sup> </b> when the two circles of its vertical cross section have unit diameter, in other words when its tubing is of unit diameter. Thus leading us to the constant <b>π</b> which helps us understand our universe with greater clarity as it is a very useful fundamental quantity.   
 
 
 </a> 
