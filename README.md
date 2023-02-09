@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Tushar 👋</h1>
 <h3 align="center">An enthusiastic sophomore </h3>
-<img align="right" alt="Coding width="400" src="https://i.gifer.com/origin/ab/ab41765c1ad683157fd04a8449d66799.gif">
 
 <h4 align='center'> Data Analyst | Undergraduate Researcher </h4>
 
