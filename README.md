@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Tushar 👋</h1>
-<h3 align="center">An enthusiastic sophomore </h3>
+<h3 align="center">An enthusiastic junior </h3>
 
 <h4 align='center'> Data Analyst | Undergraduate Researcher </h4>
 
