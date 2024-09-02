@@ -61,27 +61,6 @@ I love to solve problems with a diverse group and explore different fields of co
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="30"/>
     </a>
-    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.anaconda.com/favicon.ico" alt="anaconda" width="40" height="30"/>
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="30"/>
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://code.visualstudio.com/assets/favicon.ico" alt="vscode" width="40" height="30"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/visualstudio" target="_blank" rel="noreferrer">
-        <img src="https://visualstudio.microsoft.com/wp-content/themes/vs2019/images/vs-logo.png" alt="visualstudio" width="40" height="30"/>
-    </a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-        <img src="https://www.jetbrains.com/pycharm/favicon.ico" alt="pycharm" width="40" height="30"/>
-    </a>
-    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.eclipse.org/eclipse.org-common/themes/equinox/images/eclipse-120x120.png" alt="eclipse" width="40" height="30"/>
-    </a>
-    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.latex-project.org/img/latex3.png" alt="latex" width="40" height="30"/>
-    </a>
 </p>
 
 </a> 
