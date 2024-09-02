@@ -14,7 +14,75 @@ I love to solve problems with a diverse group and explore different fields of co
 - 📫 How to reach me **tushar.ntu.gupta@gmail.com**  
 
 
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="30"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="30"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/>
+    </a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="30"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="30"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="30"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="30"/>
+    </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="30"/>
+    </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="30"/>
+    </a>
+    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.anaconda.com/favicon.ico" alt="anaconda" width="40" height="30"/>
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="30"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://code.visualstudio.com/assets/favicon.ico" alt="vscode" width="40" height="30"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/visualstudio" target="_blank" rel="noreferrer">
+        <img src="https://visualstudio.microsoft.com/wp-content/themes/vs2019/images/vs-logo.png" alt="visualstudio" width="40" height="30"/>
+    </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+        <img src="https://www.jetbrains.com/pycharm/favicon.ico" alt="pycharm" width="40" height="30"/>
+    </a>
+    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.eclipse.org/eclipse.org-common/themes/equinox/images/eclipse-120x120.png" alt="eclipse" width="40" height="30"/>
+    </a>
+    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.latex-project.org/img/latex3.png" alt="latex" width="40" height="30"/>
+    </a>
+</p>
 
 </a> 
 <!-- <img align="left" src="https://user-images.githubusercontent.com/124782352/217724003-9c3315c0-8a3b-46b8-afea-b42242322861.png" width="300" height="100"> -->
