@@ -6,7 +6,7 @@ I love to solve problems with a diverse group and explore different fields of co
   
   
 
-- 🌱 I’m currently learning **Qiskit**
+- 🌱 I’m currently working on my Bachelor Thesis "Efficient Quantum Circuit Design" under Prof. Anupam. **Qiskit**
 
 - 📫 How to reach me **tushar.ntu.gupta@gmail.com**  
 
