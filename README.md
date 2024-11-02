@@ -5,9 +5,9 @@ I love to solve problems with a diverse group and explore different fields of co
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
 
-- ’m currently working on my Bachelor Thesis "Efficient Quantum Circuit Design" under Prof. Anupam.
+- I’m currently working on my Bachelor Thesis "Efficient Quantum Circuit Design" under Prof. Anupam.
 
-- 📫 How to reach me **tushar.ntu.gupta@gmail.com**  
+- How to reach me **tushar.ntu.gupta@gmail.com**  
 
 
 </a> 
