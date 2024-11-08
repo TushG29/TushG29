@@ -6,12 +6,7 @@ I aspire to leverage my data science expertise in the financial industry. Curren
 
 I love watching TED shows, enjoy networking with people and hearing new perspectives.
 
-Thank you for visiting and feel free to connect with me:
+Thank you for visiting and feel free to <a href="https://www.linkedin.com/in/tushargupta19/">connect</a> with me. 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tushargupta19/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
-📫 How to reach me: **tushar.ntu.gupta@gmail.com**
+- How to reach me **tushar.ntu.gupta@gmail.com**  
